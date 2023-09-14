@@ -1,7 +1,7 @@
 /* Sajid Ahmadzai Game JS file*/
 let gameHistory = [];
 
-// Load sound effects
+// sound effects
 let winSound = new Audio('win.mp3');
 let loseSound = new Audio('lose.mp3');
 let pushSound = new Audio('push.wav');
